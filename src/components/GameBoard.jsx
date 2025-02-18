@@ -1,7 +1,6 @@
 
 export default function GameBoard({onSelectSquare, board}) {
   
-//comments:
 //  const [gameBoard, setGameBoard] = useState(initialGameBoard);
 
 //  function handleSelectSquare (rowIndex, colIndex){
